@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Praveen Tadisetti. Studying in giet college</h2>
+<h2 align="center">𝙃𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙋𝙧𝙖𝙫𝙚𝙚𝙣 𝙏𝙖𝙙𝙞𝙨𝙚𝙩𝙩𝙞<br>𝙄 𝙖𝙢 𝙥𝙪𝙧𝙨𝙪𝙞𝙣𝙜 𝙢𝙮 𝘽.𝙩𝙚𝙘𝙝 𝙞𝙣 𝙂𝙞𝙚𝙩 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙘𝙤𝙡𝙡𝙚𝙜𝙚</h2>
 
 ###
 
@@ -9,14 +9,12 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw24PZVJjc4wxLwuqHy6EY2D&ust=1741256542064000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi3vq_c8osDFQAAAAAdAAAAABAE"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -25,12 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
@@ -40,12 +32,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PRAVEEN-TADISETTI/count.svg?"  />
 </div>
 
 ###
